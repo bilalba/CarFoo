@@ -29,12 +29,16 @@
 
         <activity
             android:name=".MainActivity"
-            android:label="Google Directions Sample" >
+            android:label="Login" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".EstimateActivity"
+            android:label="Estimate Carbon Footprint">
         </activity>
     </application>
 

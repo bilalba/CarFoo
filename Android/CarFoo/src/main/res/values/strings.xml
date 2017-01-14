@@ -6,4 +6,6 @@
     <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_main3">Main3Activity</string>
     <string name="facebook_app_id">586803144862387</string>
+    <string name="button">goto MAP</string>
+    <string name="text1">goto MAP</string>
 </resources>
